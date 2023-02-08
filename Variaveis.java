@@ -4,8 +4,8 @@ public class Variaveis {
         byte quantidadesdeBolas=7;
         char letras='N';
         boolean vivo=false;
-        double salario= 1302;
-        float salariomenor= 1212;
+        double salario= 1302.00;
+        float salariomenor= 1212.00f;
         short alunoPalmital= 10000;
         long populaçãoPalmital= 22000;
         System.out.println(idade);
