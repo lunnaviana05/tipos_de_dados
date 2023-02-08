@@ -8,7 +8,10 @@ public class Variaveis {
         float salariomenor= 1212.00f;
         short alunoPalmital= 10000;
         long populaçãoPalmital= 22000;
-        System.out.println(idade);
+        String nome;
+        nome="Netto da Etec Palmital";
+
+        System.out.println("Meu nome é:"+nome + "tenho:"+idade +"anos");
         System.out.println(quantidadesdeBolas);
         System.out.println(letras);
         System.out.println(vivo);
