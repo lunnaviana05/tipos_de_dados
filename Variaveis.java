@@ -6,7 +6,7 @@ public class Variaveis {
         boolean vivo=false;
         double salario= 1302;
         float salariomenor= 1212;
-        shot alunoPalmital= 10000;
+        short alunoPalmital= 10000;
         long populaçãoPalmital= 22000;
         System.out.println(idade);
     }
