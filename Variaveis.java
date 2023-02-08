@@ -9,5 +9,12 @@ public class Variaveis {
         short alunoPalmital= 10000;
         long populaçãoPalmital= 22000;
         System.out.println(idade);
+        System.out.println(quantidadesdeBolas);
+        System.out.println(letras);
+        System.out.println(vivo);
+        System.out.println(salario);
+        System.out.println(salariomenor);
+        System.out.println(alunoPalmital);
+        System.out.println(populaçãoPalmital);
     }
 }
