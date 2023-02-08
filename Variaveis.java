@@ -9,9 +9,9 @@ public class Variaveis {
         short alunoPalmital= 10000;
         long populaçãoPalmital= 22000;
         String nome;
-        nome="Netto da Etec Palmital";
+        nome="Lunna da Etec Palmital";
 
-        System.out.println("Meu nome é:"+nome + "tenho:"+idade +"anos");
+        System.out.println("Meu nome é:"+nome + "tenho:" +idade +"anos");
         System.out.println(quantidadesdeBolas);
         System.out.println(letras);
         System.out.println(vivo);
