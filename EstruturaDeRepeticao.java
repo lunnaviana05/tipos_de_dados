@@ -25,8 +25,8 @@ public class EstruturaDeRepeticao {
             System.out.println(i);
         }*/
 
-        int fatResult = 1;
-        for(int fat=0;fat>2;fat--){
+        int fatResult = 2;
+        for(int fat=0;fat>1;fat--){
             if(fat ==0){
                 fatResult =1;
                 break;
