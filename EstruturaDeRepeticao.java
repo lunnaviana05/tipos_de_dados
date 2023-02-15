@@ -26,7 +26,7 @@ public class EstruturaDeRepeticao {
         }*/
 
         int fatResult = 1;
-        for(int fat=0;fat>1;fat--){
+        for(int fat=0;fat>2;fat--){
             if(fat ==0){
                 fatResult =1;
                 break;
