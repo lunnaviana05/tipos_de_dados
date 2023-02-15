@@ -26,14 +26,15 @@ public class EstruturaDeRepeticao {
         }*/
 
         int fatResult = 1;
-        for(int i=0;i>1;i--){
-            if(i ==0){
+        for(int fat=0;fat>1;fat--){
+            if(fat ==0){
                 fatResult =1;
                 break;
             }else{
-                fatResult = i * fatResult;
+                fatResult = fat * fatResult;
             }
         }
+        System.out.println(fatResult);
 
     }
     
