@@ -5,7 +5,7 @@ public class OperadorCalc {
     //float
     //declare também as váriaveis soma, mult, divisão, resto, subtração:
 
-    public static void mais(String[] bia]) {
+    public static void mais(String[] bia) {
         try (scanner entrada = new Scanner(System.in)){
             int numero=0;
             int numero2=0;

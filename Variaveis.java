@@ -1,6 +1,11 @@
+import java.util.Scanner;
+
 public class Variaveis {
     public static void main(String[] args){
         int idade=30;
+        String nome;
+        String dafiddso;
+        Scanner 
         byte quantidadesdeBolas=7;
         char letras='N';
         boolean vivo=false;
